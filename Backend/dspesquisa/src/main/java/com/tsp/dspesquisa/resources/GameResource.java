@@ -3,7 +3,6 @@ package com.tsp.dspesquisa.resources;
 import java.util.List;
 
 import com.tsp.dspesquisa.dto.GameDTO;
-import com.tsp.dspesquisa.repositories.GameRepository;
 import com.tsp.dspesquisa.services.GameService;
 
 import org.springframework.beans.factory.annotation.Autowired;
